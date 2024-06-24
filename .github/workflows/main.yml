@@ -17,5 +17,4 @@ jobs:
         server: whattodo.tech
         username: public_ftp@whattodo.tech
         password: '!whattodo265'
-        protocol: ftps
         security: strict
